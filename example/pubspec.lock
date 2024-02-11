@@ -125,10 +125,10 @@ packages:
     dependency: transitive
     description:
       name: ffi
-      sha256: "13a6ccf6a459a125b3fcdb6ec73bd5ff90822e071207c663bfd1f70062d51d18"
+      sha256: "7bf0adc28a23d395f19f3f1eb21dd7cfd1dd9f8e1c50051c069122e6853bc878"
       url: "https://pub.dev"
     source: hosted
-    version: "1.2.1"
+    version: "2.1.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -203,14 +203,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.8.1"
-  libusb:
+  libusb_new:
     dependency: transitive
     description:
-      name: libusb
-      sha256: ca24c95f475eb53fac4dcdcd754b5a0b1b04d0bbf744f61163ae5d59197471c6
+      name: libusb_new
+      sha256: "3cc5e83ecd7ffd752479e26fe4a87a6c5c15ff1c51b494d7a373355f0b107f13"
       url: "https://pub.dev"
     source: hosted
-    version: "0.3.23+2"
+    version: "1.0.0"
   lints:
     dependency: transitive
     description:
